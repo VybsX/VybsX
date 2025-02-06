@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a love fo
 ## 🚀 About Me
 
 - 🛠️ I enjoy working on various software projects, from web development to system-level programming.
-- 🌱 Currently, I'm focusing on enhancing my skills in Rust and exploring the world of blockchain development.
+- 🌱 Currently, I'm focusing on enhancing my skills in C++ and Java.
 - 💬 Feel free to ask me about Python, JavaScript, or any other tech stack I've worked on.
 - 📫 You can reach me at [https://vybsx.com/](https://vybsx.com/).
 
@@ -13,20 +13,19 @@ Welcome to my GitHub profile! I'm a passionate software developer with a love fo
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
 
 ## 🔧 Projects
 
 Here are some of the projects I've been working on:
 
-- [Repository 1](https://github.com/VybsX/repository-1): A web application built with React and Node.js.
-- [Repository 2](https://github.com/VybsX/repository-2): A command-line tool written in Rust.
-- [Repository 3](https://github.com/VybsX/repository-3): An open-source library for blockchain development.
+- [Security Scripts For Beginners](https://github.com/VybsX/Security-Scripts-For-Beginners): A collection of beginner-friendly security scripts.
+- [How to crack any Keyauth loader NOOB FRIENDLY TUTORIAL](https://github.com/VybsX/How-to-crack-any-Keyauth-loader-NOOB-FRIENDLY-TUTORIAL-): A comprehensive guide for beginners on cracking Keyauth loaders.
 
 ## 📈 GitHub Stats
 
