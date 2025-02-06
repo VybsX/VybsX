@@ -5,8 +5,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a love fo
 ## 🚀 About Me
 
 - 🛠️ I enjoy working on various software projects, from web development to system-level programming.
-- 🌱 Currently, I'm focusing on enhancing my skills in C++ and Java.
-- 💬 Feel free to ask me about Python, JavaScript, or any other tech stack I've worked on.
+- 🌱 Currently, I'm focusing on enhancing my skills in C++ cybersecurity and Computer Science.
 - 📫 You can reach me at [https://vybsx.com/](https://vybsx.com/).
 
 ## 🛠️ Technologies & Tools
