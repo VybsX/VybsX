@@ -1,14 +1,3 @@
-It looks like I don't have the ability to directly upload files to your GitHub repository. However, I can guide you on how to do it yourself.
-
-Here are the steps to create a profile README on GitHub:
-
-1. **Create a new repository**: The repository's name should be the same as your GitHub username. For example, if your username is `VybsX`, the repository's name should be `VybsX`.
-
-2. **Add the README file**: Create a file named `README.md` in the new repository.
-
-3. **Copy the content**: Copy the following content into the `README.md` file:
-
-```markdown name=README.md
 # Hi there, I'm VybsX! 👋
 
 Welcome to my GitHub profile! I'm a passionate software developer with a love for open-source contributions and learning new technologies. Here's a little more about me:
@@ -48,8 +37,3 @@ Here are some of the projects I've been working on:
 - [Website](https://vybsx.com/)
 
 Thanks for visiting my profile! 😊
-```
-
-4. **Commit the changes**: Save the `README.md` file and commit the changes to the repository.
-
-Once you have completed these steps, your profile README will be visible on your GitHub profile page. If you need further assistance, please let me know!
