@@ -32,6 +32,6 @@ Here are some of the projects I've been working on:
 
 ## 📫 Connect with Me
 
-- [Website](https://vybsx.com/)
+- [Website](https://grave.ltd/)
 
 Thanks for visiting my profile! 😊
